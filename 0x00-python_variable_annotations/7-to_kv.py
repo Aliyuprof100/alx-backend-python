@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 """Module that contains function that returns a tuple from str, int, float"""
 from typing import Union, Tuple
 
