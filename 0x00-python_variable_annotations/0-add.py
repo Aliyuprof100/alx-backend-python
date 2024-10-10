@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""a module that contains annotated functions to easily return the sum of two floats"""
+"""a module that contains annotated functions """
 
 
 def add(a: float, b: float) -> float:
